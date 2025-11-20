@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!DOCTYPE html>
+<html>
+<body>
+
+<h3>To-Do List</h3>
+
+<input id="taskInput" placeholder="Enter task">
+<button onclick="addTask()">Add</button>
+
+<ul id="list"></ul>
+
+<script>
+function addTask() {
+    let text = taskInput.value;
+    if (text === "") return;
+
+    // Create LI
+    let li = document.createElement("li");
+    li.innerHTML = `
+        ${text} 
+        <button onclick="editTask(this)">Edit</button>
+        <button onclick="this.parentElement.remove()">Delete</button>
+    `;
+
+    list.appendChild(li);
+    taskInput.value = "";
+}
+
+function editTask(btn) {
+    let li = btn.parentElement;
+    let current = li.firstChild.textContent.trim();
+    let updated = prompt("Edit task:", current);
+
+    if (updated) {
+        li.firstChild.textContent = updated + " ";
+    }
+}
+</script>
+
+</body>
+</html>
+
+    
+    
+</body>
+</html>
