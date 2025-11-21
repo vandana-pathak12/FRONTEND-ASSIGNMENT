@@ -4,8 +4,9 @@
 <img src="images/task1b.png" width="320px" height="300px">
 </div>
 
-<h1>TASK-2 CHRACTER COUNTER
+<h1>TASK-2 CHARACTER COUNTER
 <div>
-<img src="">
+<img src="images/task2.png" width="400px" height="300px">
+</div>
 
 
