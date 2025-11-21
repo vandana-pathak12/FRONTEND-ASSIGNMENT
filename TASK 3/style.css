@@ -1,3 +1,9 @@
+.title {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+
 #carousel {
     width: 400px;
     height: 250px;
