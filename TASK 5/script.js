@@ -1,4 +1,4 @@
-// Product Array with categories
+
 const products = [
     { name: "Laptop", category: "electronics" },
     { name: "Mobile", category: "electronics" },
