@@ -1,0 +1,31 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    padding: 20px;
+}
+
+#loader {
+    border: 8px solid #ddd;
+    border-top: 8px solid black;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    margin: 100px auto;
+    animation: spin 1s linear infinite;
+}
+
+
+@keyframes spin {
+    100% {
+        transform: rotate(360deg);
+    }
+}
+.hidden {
+    display: none;
+}
+
+.images img {
+    width: 200px;
+    margin: 10px;
+    border-radius: 10px;
+}
