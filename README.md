@@ -30,6 +30,5 @@
 <h1>TASK-6 SEQUENTIAL PROMISES </h1>
 <div>
 <img src="images/task6a.png" width="350px" height="300px">
-  <img src="images/task5b.png" width="350px" height="300px">
-  <img src="images/task5c.png" width="350px" height="300px">
+  <img src="images/task6b.png" width="350px" height="300px">
 </div>
