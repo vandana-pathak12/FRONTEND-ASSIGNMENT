@@ -18,7 +18,7 @@
 <div>
 <img src="images/Task4(a).png" width="400px" height="300px">
   <img src="images/Task4(b).png" width="400px" height="300px">
-  <img src="images/Task4(a).png" width="400px" height="300px">
+  <img src="images/Task4(c).png" width="400px" height="300px">
 </div>
 
 <h1>TASK-5 From Validation</h1>
