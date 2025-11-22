@@ -37,7 +37,7 @@
 <h1>TASK-7 IMAGE GALLERY LOADER </h1>
 <div>
 <img src="images/task7a.png" width="350px" height="300px">
-  <img src="images/task6b.png" width="350px" height="300px">
+  <img src="images/task7b.png" width="350px" height="300px">
 </div>
 
 <h1>TASK-8 IMAGE GALLERY</h1>
