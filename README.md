@@ -43,7 +43,7 @@
 <h1>TASK-8 IMAGE GALLERY</h1>
 <div>
 <img src="images/task8a.png" width="350px" height="300px">
-  <img src="" width="350px" height="300px">
+  <img src="images/task8c.png" width="350px" height="300px">
    <img src="images/task8b.png" width="350px" height="300px">
 
 </div>
