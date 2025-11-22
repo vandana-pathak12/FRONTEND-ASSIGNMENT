@@ -25,6 +25,6 @@
 <div>
 <img src="images/task5a.png" width="350px" height="300px">
   <img src="images/task5b.png" width="350px" height="300px">
-  <img src="images/task5a.png" width="350px" height="300px">
+  <img src="images/task5c.png" width="350px" height="300px">
 </div>
 
