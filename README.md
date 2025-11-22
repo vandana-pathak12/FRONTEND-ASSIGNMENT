@@ -9,7 +9,7 @@
 <img src="images/task2.png" width="400px" height="300px">
 </div>
 
-<h1>TASK-2 Image Carousal</h1>
+<h1>TASK-3 Image Carousal</h1>
 <div>
 <img src="images/task3.png" width="400px" height="300px">
 </div>
