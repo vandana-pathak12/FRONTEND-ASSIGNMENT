@@ -16,6 +16,13 @@
 
 <h1>TASK-4 From Validation</h1>
 <div>
-<img src="" width="400px" height="300px">
+<img src="images/Task4(a).png" width="400px" height="300px">
+  <img src="images/Task4(a).png" width="400px" height="300px">
+  <img src="images/Task4(a).png" width="400px" height="300px">
+</div>
+
+<h1>TASK-5 From Validation</h1>
+<div>
+<img src="images/Task4(a).png" width="400px" height="300px">
 </div>
 
