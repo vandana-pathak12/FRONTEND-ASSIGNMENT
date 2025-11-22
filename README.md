@@ -9,22 +9,27 @@
 <img src="images/task2.png" width="400px" height="300px">
 </div>
 
-<h1>TASK-3 Image Carousal</h1>
+<h1>TASK-3 IMAGE CAROUSEL</h1>
 <div>
 <img src="images/task3.png" width="400px" height="300px">
 </div>
 
-<h1>TASK-4 From Validation</h1>
+<h1>TASK-4 FROM VALIDATIO</h1>
 <div>
 <img src="images/Task4(a).png" width="350px" height="300px">
   <img src="images/Task4(b).png" width="350px" height="300px">
   <img src="images/Task4(c).png" width="350px" height="300px">
 </div>
 
-<h1>TASK-5 Product Filter</h1>
+<h1>TASK-5 PRODUCT FILTER</h1>
 <div>
 <img src="images/task5a.png" width="350px" height="300px">
   <img src="images/task5b.png" width="350px" height="300px">
   <img src="images/task5c.png" width="350px" height="300px">
 </div>
-
+<h1>TASK-6 SEQUENTIAL PROMISES </h1>
+<div>
+<img src="" width="350px" height="300px">
+  <img src="images/task5b.png" width="350px" height="300px">
+  <img src="images/task5c.png" width="350px" height="300px">
+</div>
